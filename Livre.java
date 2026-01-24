@@ -1,6 +1,7 @@
 public class Livre extends Document {
     private String auteur;
     private int nbPages;
+    private int count;
 
     // Constructeur sans ID : appelle super sans ID
     public Livre(String auteur, int nbPages, String titre, int anneePublication) {
