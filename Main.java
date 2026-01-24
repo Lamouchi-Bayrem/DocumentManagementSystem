@@ -1,4 +1,5 @@
 public class Main {
+//Scinario example 
     public static void main(String[] args) {
         // Création de 5 livres (documents)
         Livre l1 = new Livre("Auteur1", 250, "Titre1", 1990);
