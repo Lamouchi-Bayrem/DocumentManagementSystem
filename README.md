@@ -24,4 +24,4 @@ Ce projet est basé sur un exercice universitaire (ISI, 2026) et peut être éte
 - Utiliser une base de données pour la persistance.
 
 ## Licence
-MIT License (voir LICENSE).#
+MIT License
