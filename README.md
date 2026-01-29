@@ -1,7 +1,7 @@
 # Système de Gestion de Documents Multimédias
 
 ## Description
-Ce projet est un système simple de gestion de documents multimédias en Java. Il gère des documents abstraits (comme des livres) avec des fonctionnalités telles que l'ajout, la suppression, la recherche, la comparaison par année, l'affichage des documents anciens, et des statistiques.
+Ce projet est un système simple de gestion de documents multimédias en Java. Il gère des documents abstraits (comme des livres) avec des fonctionnalités telles que l'ajout, la suppression, la recherche, la comparaison par année, l'affichage des documents anciens, et des statistiques aussi que la facturation et le suivi des incident et genration des tiket 
 
 - **Classe Abstraite Document** : Base pour tous les documents avec ID, titre, année de publication.
 - **Classe Livre** : Étend Document pour les livres, avec auteur et nombre de pages. Inclut des méthodes pour vérifier si ancien (>30 ans) et calculer le prix.
